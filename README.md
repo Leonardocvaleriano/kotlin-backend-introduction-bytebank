@@ -1,6 +1,7 @@
 <h2>  Objective 🎯</h2>
 <p> The objective of the study plan was: Develop a digital bank using the Kotlin, following the Object-Oriented programming. <br>
-P.S:  The app is a console application.</p> 
+P.S:  The app is a console application.</p>
+
 <h2> Features of the project 🔨 </h2>
 
 - Create accounts
