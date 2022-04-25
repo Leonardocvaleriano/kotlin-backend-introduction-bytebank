@@ -12,7 +12,6 @@ P.S:  The app is an application in console.</p>
 
 <h2>Techniques and tecnologies used ✔️</h2>
 
-<b>Language: Kotlin </b> <br>
 In this App the following techniques and technologies are explored:
 
 - Function
